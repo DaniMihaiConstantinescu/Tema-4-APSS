@@ -79,6 +79,7 @@ class SystemMain {
 
 			ClientInput objClientInput = new ClientInput();
 			ClientOutput objClientOutput = new ClientOutput();
+			Logger logger = new Logger("log.txt");
 
 			// Lansarea sistemului.
 			objClientInput.start();

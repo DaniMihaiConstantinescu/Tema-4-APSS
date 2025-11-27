@@ -1,0 +1,34 @@
+[2025-11-27T19:27:34.315957400] OUTPUT=
+Sistem inscriere studenti
+
+[2025-11-27T19:27:34.319954800] OUTPUT=1) Lista studenti
+[2025-11-27T19:27:34.319954800] OUTPUT=2) Lista cursuri
+[2025-11-27T19:27:34.320954700] OUTPUT=3) Lista studentilor inscrisi la un curs
+[2025-11-27T19:27:34.320954700] OUTPUT=4) Lista cursurilor la care e inscris un student
+[2025-11-27T19:27:34.320954700] OUTPUT=5) Lista cursurilor absolvite de un student
+[2025-11-27T19:27:34.320954700] OUTPUT=6) Inscriere student la un curs
+[2025-11-27T19:27:34.320954700] OUTPUT=x) Exit
+[2025-11-27T19:27:34.320954700] OUTPUT=
+Selectati o optiune si apasati return >> 
+[2025-11-27T19:27:37.738935600] OUTPUT=
+
+[2025-11-27T19:27:37.747928600] OUTPUT=123456789 Vasile Carmen IS 1 05610 17651 17653
+012345678 Georgescu Anca IS 0 46921 05610 17652 17651 17653 17654
+145643133 Raicu Horia IS 3 05610 17651
+901234567 Ionescu Iulian IS 2 46732 46814 17652 17651
+890123456 Iftode Diana IS 3 17653 17654
+812998191 Vianu Dan IS 4 05610
+121231422 Popa Irina IS 0 17652 17651 17653 17654
+789012345 Ichim Dragos IS 0 17651
+[2025-11-27T19:27:37.747928600] OUTPUT=
+Sistem inscriere studenti
+
+[2025-11-27T19:27:37.747928600] OUTPUT=1) Lista studenti
+[2025-11-27T19:27:37.748929200] OUTPUT=2) Lista cursuri
+[2025-11-27T19:27:37.748929200] OUTPUT=3) Lista studentilor inscrisi la un curs
+[2025-11-27T19:27:37.748929200] OUTPUT=4) Lista cursurilor la care e inscris un student
+[2025-11-27T19:27:37.748929200] OUTPUT=5) Lista cursurilor absolvite de un student
+[2025-11-27T19:27:37.748929200] OUTPUT=6) Inscriere student la un curs
+[2025-11-27T19:27:37.748929200] OUTPUT=x) Exit
+[2025-11-27T19:27:37.748929200] OUTPUT=
+Selectati o optiune si apasati return >> 
